@@ -1,0 +1,26 @@
+.mainContainer {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+}
+
+.subContainer input {
+  width: 15rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btnContainer {
+  margin-bottom: 1rem;
+}
+
+.btnContainer button {
+  margin: 0 0.5rem;
+}
